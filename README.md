@@ -1,10 +1,10 @@
-<h1>Privacy Policy – SawmFit: Ramadan & Halal Tracker</h1>
+<h1>Privacy Policy – MuslimCal: Ramadan & Halal Tracker</h1>
 
 <p>Last Updated: [2026/02/13]</p>
 
 <h2>1. Acceptance of Terms</h2>
 
-<p>SawmFit is committed to protecting your privacy. This Privacy Policy applies to SawmFit and all its versions (“we”, “us”, or “our”) and forms part of our Terms of Use. By accessing or using the Application, you acknowledge and fully understand this Privacy Policy and freely consent to the practices described herein.</p>
+<p>MuslimCal is committed to protecting your privacy. This Privacy Policy applies to MuslimCal and all its versions (“we”, “us”, or “our”) and forms part of our Terms of Use. By accessing or using the Application, you acknowledge and fully understand this Privacy Policy and freely consent to the practices described herein.</p>
 
 <h2>2. Information We Collect</h2>
 
