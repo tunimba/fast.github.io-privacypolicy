@@ -1,83 +1,93 @@
-<h1>Privacy Policy – MuslimCal: Ramadan & Halal Tracker</h1>
+<h1>Privacy Policy – MuslimCal: Muslim Calorie Fasting Tracker</h1>
 
-<p>Last Updated: [2026/02/13]</p>
+<p>Last Updated: 2026/02/21</p>
 
-<h2>1. Acceptance of Terms</h2>
+<h2>1. Overview</h2>
 
-<p>MuslimCal is committed to protecting your privacy. This Privacy Policy applies to MuslimCal and all its versions (“we”, “us”, or “our”) and forms part of our Terms of Use. By accessing or using the Application, you acknowledge and fully understand this Privacy Policy and freely consent to the practices described herein.</p>
+<p>MuslimCal (“we”, “us”, or “our”) is committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and how we protect it when you use the MuslimCal mobile application (the “Application”).</p>
+
+<p>By using the Application, you agree to the collection and use of information in accordance with this Privacy Policy.</p>
 
 <h2>2. Information We Collect</h2>
 
-<p>We may collect the following information when you use the Application:</p>
+<p>We collect only the information necessary to operate and improve the Application. The types of data we may collect include:</p>
 
 <ul>
-    <li>Subscription and payment information (processed securely via the Apple App Store);</li>
-    <li>Device and usage data (device model, operating system, IP address, usage statistics);</li>
-    <li>Fasting progress data, water intake logs, and calorie tracking entries entered by the user;</li>
-    <li>Uploaded food photos used for halal verification or AI-powered food analysis (temporarily processed);</li>
-    <li>Support messages or feedback you voluntarily send to us.</li>
+    <li><strong>Photos or Videos:</strong> Food images voluntarily uploaded by you for AI-based food and nutrition analysis.</li>
+    <li><strong>Purchase Information:</strong> Subscription and purchase history processed securely via the Apple App Store and managed through RevenueCat.</li>
+    <li><strong>Device Information:</strong> Device identifiers (such as app instance ID), device model, operating system version, and general technical information.</li>
+    <li><strong>Usage Data:</strong> Interaction data such as feature usage, screen views, and in-app events.</li>
+    <li><strong>Crash and Diagnostic Data:</strong> Crash reports and performance logs used to maintain app stability.</li>
+    <li><strong>User-Entered Data:</strong> Fasting logs, calorie entries, hydration tracking, weight entries, and similar information entered directly by you.</li>
 </ul>
+
+<p>We do <strong>not</strong> collect names, email addresses, account credentials, or personally identifying profile information.</p>
 
 <h2>3. How We Use Your Information</h2>
 
-<p>We use your information to:</p>
+<p>We use collected information solely to:</p>
 
 <ul>
-    <li>Provide and improve fasting tracking, hydration tracking, and calorie monitoring features;</li>
-    <li>Perform halal verification assistance and food analysis functions;</li>
-    <li>Process uploaded images securely and generate analysis results;</li>
-    <li>Manage subscriptions and payments;</li>
-    <li>Analyze performance and usage to improve app functionality;</li>
-    <li>Communicate important updates and respond to support requests.</li>
+    <li>Provide fasting tracking, calorie tracking, hydration tracking, and nutrition analysis features;</li>
+    <li>Process uploaded food images and generate analysis results;</li>
+    <li>Manage subscriptions and verify premium access;</li>
+    <li>Monitor performance and improve application stability;</li>
+    <li>Analyze anonymized usage trends to enhance user experience.</li>
 </ul>
 
-<h2>4. Image & Food Data Processing</h2>
+<p>All collected data is used for <strong>app functionality, analytics, and service improvement</strong>. Data is not used for advertising or sold to third parties.</p>
+
+<h2>4. Image Processing & AI Services</h2>
 
 <ul>
-    <li>Uploaded food photos are temporarily processed on secure servers solely to perform halal verification or food analysis.</li>
-    <li>All uploaded photos are automatically deleted within 24 hours.</li>
-    <li>We do not sell, reuse, or share your uploaded images.</li>
-    <li>Photos are never used to train AI models.</li>
-    <li>No biometric identification, facial recognition, or personal profiling is performed.</li>
-    <li>Images are used exclusively to analyze food items, ingredients, and related nutritional insights.</li>
+    <li>Food photos are uploaded only when you actively use the food scanner feature.</li>
+    <li>Images are temporarily processed via secure AI infrastructure to generate nutrition analysis.</li>
+    <li>Uploaded images are automatically deleted within 24 hours.</li>
+    <li>Images are not used to train AI models.</li>
+    <li>No facial recognition, biometric identification, or personal profiling is performed.</li>
 </ul>
 
-<h2>4A. Religious & Health Data Clarification</h2>
+<h2>5. Data Not Linked to Your Identity</h2>
+
+<p>The Application does not create user accounts and does not link collected data to your real-world identity.</p>
+
+<p>Device identifiers and usage data are processed in a way that is not associated with your name, email address, or personal identity.</p>
+
+<h2>6. Third-Party Services</h2>
+
+<p>We use trusted third-party providers to operate the Application:</p>
 
 <ul>
-    <li>Fasting logs, water intake entries, and calorie data are stored only to provide tracking functionality.</li>
-    <li>The Application does not collect sensitive religious profiling data beyond user-entered fasting progress.</li>
-    <li>We do not infer personal beliefs, sectarian affiliation, or religious identity.</li>
-    <li>The Application does not generate or store any biometric identifiers.</li>
+    <li><strong>Apple App Store:</strong> Payment processing and subscription transactions.</li>
+    <li><strong>RevenueCat:</strong> Subscription validation and purchase management.</li>
+    <li><strong>Firebase (Google):</strong> Analytics, crash reporting, and remote configuration.</li>
+    <li><strong>AI Processing Providers (via AIProxy):</strong> Food image analysis services.</li>
 </ul>
 
-<h2>5. Third-Party Services</h2>
+<p>These providers process data only as necessary to provide their services and are subject to their own privacy and security obligations.</p>
 
-<p>We may use trusted third-party services to operate and improve the Application:</p>
+<h2>7. Data Retention</h2>
 
 <ul>
-    <li>Apple App Store – payment processing;</li>
-    <li>Firebase – performance monitoring, analytics, and crash reporting;</li>
-    <li>RevenueCat – subscription and purchase management;</li>
-    <li>OpenAI API – AI processing services for halal verification or food analysis.</li>
+    <li>User-entered fasting, calorie, hydration, and weight data is stored locally on your device unless otherwise synchronized.</li>
+    <li>Diagnostic and analytics data is retained according to Firebase and platform retention policies.</li>
+    <li>Uploaded food images are automatically deleted within 24 hours.</li>
 </ul>
 
-<p>These providers are permitted to use your information only as necessary to perform services on our behalf and are contractually obligated to protect your data.</p>
+<h2>8. Data Security</h2>
 
-<h2>6. Data Retention</h2>
+<p>We implement reasonable technical and organizational measures to protect your information. While no method of transmission over the Internet is 100% secure, we strive to use commercially acceptable means to safeguard your data.</p>
 
-<p>User-entered tracking data (fasting, water, calorie logs) may be stored locally on your device or securely in cloud infrastructure to enable account continuity. Uploaded images are automatically deleted within 24 hours.</p>
+<h2>9. Children's Privacy</h2>
 
-<h2>7. Data Security</h2>
+<p>The Application is not intended for children under the minimum digital consent age in their jurisdiction. We do not knowingly collect personally identifiable information from children.</p>
 
-<p>We implement appropriate technical and organizational measures to protect your data. While no system can guarantee absolute security, we continuously work to safeguard your information against unauthorized access, alteration, disclosure, or destruction.</p>
+<h2>10. Changes to This Privacy Policy</h2>
 
-<h2>8. Changes to This Policy</h2>
+<p>We may update this Privacy Policy periodically. Any changes will be posted on this page with a revised “Last Updated” date. Continued use of the Application after changes constitutes acceptance of the updated policy.</p>
 
-<p>We may update this Privacy Policy periodically. The updated version will be posted here with a revised “Last Updated” date. Continued use of the Application constitutes acceptance of any updated terms.</p>
+<h2>11. Contact</h2>
 
-<h2>9. Contact Us</h2>
+<p>If you have questions about this Privacy Policy, please contact:</p>
 
-<p>If you have any questions or concerns about this Privacy Policy, you can contact us at:</p>
-
-<p>Email: your@email.com</p>
+<p>Email: app.muslimcal@gmail.com</p>
