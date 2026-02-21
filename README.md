@@ -90,4 +90,4 @@
 
 <p>If you have questions about this Privacy Policy, please contact:</p>
 
-<p>Email: app.muslimcal@gmail.com</p>
+<p>Email: your@email.com</p>
